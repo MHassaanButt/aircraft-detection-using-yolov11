@@ -82,9 +82,8 @@ Our model achieves state-of-the-art performance on standard aircraft detection b
 
 | **Metric** | **Value** |
 |------------|-----------|
-| mAP50      | 0.89      |
-| mAP75      | 0.76      |
-| FPS        | 45        |
+| mAP50      | 0.92      |
+| mAP95     | 0.69      |
 
 ## Results
 Our approach demonstrates robust performance across various challenging scenarios:
