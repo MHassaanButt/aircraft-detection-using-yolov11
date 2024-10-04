@@ -1,0 +1,12 @@
+ultralytics_version: 8.3.4
+data_dir: dataset/
+output_dir: processed_data
+tile_size: 512
+tile_overlap: 64
+truncated_percent: 0.3
+val_fold: 1
+weights: auto
+epochs: 100
+batch_size: 16
+device: 
+name: 
